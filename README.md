@@ -23,13 +23,16 @@ script.js - Scroll initialization and reveal observers.
 favicon.png - Project branding.
 
 
-
-Clone the repository:
-git clone [https://github.com/itssaeedahmad/Nova.git](https://github.com/itssaeedahmad/Nova.git)
 Open the project: Simply open index.html in your preferred web browser to view the site.
 
 📝 License
 Copyright © 2026 itssaeedahmad. All rights reserved.
+
+
+
+Clone the repository:
+```bash
+git clone [https://github.com/itssaeedahmad/Nova.git](https://github.com/itssaeedahmad/Nova-Landing-Page.git)
 
 This project and its code are proprietary. Unauthorized copying, distribution, or modification of any part of this project is strictly prohibited.
 
