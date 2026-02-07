@@ -27,6 +27,8 @@ Open the project: Simply open index.html in your preferred web browser to view t
 
 📝 License
 Copyright © 2026 itssaeedahmad. All rights reserved.
+
+
 This project and its code are proprietary. Unauthorized copying, distribution, or modification of any part of this project is strictly prohibited.
 
 
