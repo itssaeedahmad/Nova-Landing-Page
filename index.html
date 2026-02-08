@@ -11,17 +11,28 @@
 </head>
 <body>
 
-
 <div data-scroll-container>
 <nav class="nav">
 <h2 class="reveal">Nova</h2>
+<ul class="nav-links">
+<li><a href="#services">Services</a></li>
+<li><a href="#about">About</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+<div class="hamburger" id="hamburger">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</nav>
+
+<div class="mobile-menu" id="mobile-menu">
 <ul>
 <li><a href="#services">Services</a></li>
 <li><a href="#about">About</a></li>
 <li><a href="#contact">Contact</a></li>
 </ul>
-</nav>
-
+</div>
 
 <header class="hero">
 <div class="hero-content reveal">
@@ -30,7 +41,6 @@
 <a href="#contact" class="btn">Start a Project</a>
 </div>
 </header>
-
 
 <section id="services">
 <h2 class="reveal">Our Services</h2>
@@ -41,18 +51,15 @@
 </div>
 </section>
 
-
 <section id="about" class="about">
 <h2 class="reveal">Why Choose Us</h2>
 <p class="reveal">We focus on quality, performance, and user experience to deliver websites that truly represent your business.</p>
 </section>
 
-
 <section class="testimonials">
 <h2 class="reveal">Clients Say</h2>
 <p id="testimonial" class="reveal">Great communication and amazing results.</p>
 </section>
-
 
 <section id="contact" class="contact">
 <h2 class="reveal">Contact Us</h2>
@@ -64,10 +71,8 @@
 </form>
 </section>
 
-
 <footer class="footer reveal">© 2026 Nova Agency</footer>
 </div>
-
 
 <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.4/dist/locomotive-scroll.min.js"></script>
 <script src="script.js"></script>
